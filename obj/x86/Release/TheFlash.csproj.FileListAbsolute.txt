@@ -1,0 +1,6 @@
+C:\Users\Cyprian Skrzypczak\Desktop\mapi broken\projects\TheForest\TheFlash\Mod\TheFlash.dll
+C:\Users\Cyprian Skrzypczak\Desktop\mapi broken\projects\TheForest\TheFlash\Mod\TheFlash.pdb
+C:\Users\Cyprian Skrzypczak\Desktop\mapi broken\projects\TheForest\TheFlash\obj\x86\Release\TheFlash.csprojResolveAssemblyReference.cache
+C:\Users\Cyprian Skrzypczak\Desktop\mapi broken\projects\TheForest\TheFlash\obj\x86\Release\TheFlash.csproj.CoreCompileInputs.cache
+C:\Users\Cyprian Skrzypczak\Desktop\mapi broken\projects\TheForest\TheFlash\obj\x86\Release\TheFlash.dll
+C:\Users\Cyprian Skrzypczak\Desktop\mapi broken\projects\TheForest\TheFlash\obj\x86\Release\TheFlash.pdb

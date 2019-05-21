@@ -1,0 +1,10 @@
+<Mod ID="TheFlash">
+  <Compatible>1.09</Compatible>
+  <Name>
+    <EN>MarioKartShells</EN>
+  </Name>
+  <Description>
+    <EN>Unlimited velocity, little to no friction</EN>
+  </Description>
+  <Version>1.0.0.9</Version>
+</Mod>
