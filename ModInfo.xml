@@ -1,10 +1,18 @@
 <Mod ID="TheFlash">
-  <Compatible>1.09</Compatible>
+  <Compatible>1.11b</Compatible>
+  <Button Standard="F8" ID="Menu">
+    <Name>
+      <EN>Open Menu</EN>
+    </Name>
+    <Description>
+      <EN></EN>
+    </Description>
+  </Button>
   <Name>
-    <EN>MarioKartShells</EN>
+    <EN>Tokyo Drift</EN>
   </Name>
   <Description>
-    <EN>Unlimited velocity, little to no friction</EN>
+    <EN>Unlimited velocity, little to no friction, now customizable!</EN>
   </Description>
-  <Version>1.0.0.9</Version>
+  <Version>2.0</Version>
 </Mod>
